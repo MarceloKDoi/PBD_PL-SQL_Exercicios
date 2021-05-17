@@ -5,6 +5,7 @@ PROMPT 'É preciso treinar para aprender';
 
 --ex 1.6    
 
+
 ACCEPT in_a NUMBER PROMPT 'Digite o primeiro valor';
 ACCEPT in_x NUMBER PROMPT 'Digite o peso para o primeiro valor';
 ACCEPT in_b NUMBER PROMPT 'Digite o segundo valor';
