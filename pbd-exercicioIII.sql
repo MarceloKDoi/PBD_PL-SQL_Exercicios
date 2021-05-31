@@ -69,6 +69,7 @@ CREATE TABLE tb_aluno (
 --ALTER TABLE tb_aluno
 --DROP CONSTRAINT fk_aluno_curso;
 
+
 --DROP TABLE tb_aluno;
 
 --EXERCICIO 1.4
